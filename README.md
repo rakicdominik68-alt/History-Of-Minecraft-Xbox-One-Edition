@@ -5,3 +5,5 @@ Minecraft: Xbox One Edition was first announced on June 10, 2013 at Microsoft's 
 
 # Xbox One Edition CU1
 CU1 was a version of Xbox One Edition released on September 5, 2014.[1] This was the first version of the Xbox One Edition
+
+# Features
