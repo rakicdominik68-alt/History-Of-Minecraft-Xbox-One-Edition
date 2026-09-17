@@ -4,3 +4,4 @@
 Minecraft: Xbox One Edition was first announced on June 10, 2013 at Microsoft's press conference and the a retail version was released on November 18, 2014 and it was the first console to have feature world sizes up to 5120×5120 and 1080p at 60fps and also a big upgrade from the Xbox 360 16 Render distance also the Xbox One Edition has it own DLCs like the Halo mashup pack aand skins from halo which looked great!
 
 # Xbox One Edition CU1
+CU1 was a version of Xbox One Edition released on September 5, 2014.[1] This was the first version of the Xbox One Edition
