@@ -64,3 +64,6 @@ CU6 was a version of Xbox One Edition released on December 10, 2014
 # Xbox One Edition CU7
 CU7 was a version of Xbox One Edition released on December 18, 2014.
 # Additions
+
+### Blocks
+- Hardened clay, stained clay, block of coal, hay bale, activator rail, block of redstone, daylight sensor, dropper, hopper, minecart with hopper, minecart with TNT, redstone comparator, weighted pressure plate, beacon, trapped chest, multiple snow heights
