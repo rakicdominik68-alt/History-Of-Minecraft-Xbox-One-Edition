@@ -73,3 +73,5 @@ CU7 was a version of Xbox One Edition released on December 18, 2014.
 - Horse, donkey and mule spawn eggs
 
     - Version exclusive: All use the horse spawn egg texture.
+### Mobs
+- Wither, wither skeleton, witch, bat, horse, donkey, mule
