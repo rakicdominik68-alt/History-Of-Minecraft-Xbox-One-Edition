@@ -18,3 +18,4 @@ CU1 was a version of Xbox One Edition released on September 5, 2014.[1] This was
 CU3 was a version of Xbox One Edition released on October 2, 2014
 
 # Additions
+- Added a "Copy Save" option to allow people to back-up their world to another save.
