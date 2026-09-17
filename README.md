@@ -51,3 +51,4 @@ CU4 was a version of Xbox One Edition released on October 29, 2014
 
 # Xbox One Edition CU5
 CU5 was a version of Xbox One Edition released on November 25, 2014
+# Additions
