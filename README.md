@@ -7,3 +7,9 @@ Minecraft: Xbox One Edition was first announced on June 10, 2013 at Microsoft's 
 CU1 was a version of Xbox One Edition released on September 5, 2014.[1] This was the first version of the Xbox One Edition
 
 # Features
+- Worlds saved onto cloud storage from Xbox 360 can be uploaded to Xbox One Edition.
+- Worlds have a maximum size of 5120×5120.
+
+    - The Xbox 360 has a maximum world size of 864×864.
+
+- Render distance is 18 chunks as opposed to 10 chunks on Xbox 360.
