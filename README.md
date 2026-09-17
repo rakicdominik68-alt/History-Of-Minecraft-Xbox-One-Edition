@@ -42,3 +42,5 @@ CU3 was a version of Xbox One Edition released on October 2, 2014
     - Fixed an issue with save transfers not using the most recent player data.
     - Fix for lily pad breaking particle effect.
     - Fixed an issue with gamer pictures occasionally causing a crash.
+
+# Xbox One Edition CU4
