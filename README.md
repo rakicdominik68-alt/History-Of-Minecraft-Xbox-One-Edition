@@ -53,3 +53,5 @@ CU4 was a version of Xbox One Edition released on October 29, 2014
 CU5 was a version of Xbox One Edition released on November 25, 2014
 # Additions
 - Added the trial Star Wars Classic Skin Pack.
+
+# Xbox One Edition CU6
