@@ -60,3 +60,5 @@ CU6 was a version of Xbox One Edition released on December 10, 2014
 # Additions
 - Added the trial Festive Mash-up Pack.
 - Added a "World Resize" option to expand smaller sized worlds into larger sized ones.
+
+# Xbox One Edition CU7
