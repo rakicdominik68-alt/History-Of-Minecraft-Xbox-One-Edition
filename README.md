@@ -62,3 +62,4 @@ CU6 was a version of Xbox One Edition released on December 10, 2014
 - Added a "World Resize" option to expand smaller sized worlds into larger sized ones.
 
 # Xbox One Edition CU7
+CU7 was a version of Xbox One Edition released on December 18, 2014.
