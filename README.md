@@ -45,3 +45,5 @@ CU3 was a version of Xbox One Edition released on October 2, 2014
 
 # Xbox One Edition CU4
 CU4 was a version of Xbox One Edition released on October 29, 2014
+
+# Additions
