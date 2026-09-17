@@ -44,3 +44,4 @@ CU3 was a version of Xbox One Edition released on October 2, 2014
     - Fixed an issue with gamer pictures occasionally causing a crash.
 
 # Xbox One Edition CU4
+CU4 was a version of Xbox One Edition released on October 29, 2014
