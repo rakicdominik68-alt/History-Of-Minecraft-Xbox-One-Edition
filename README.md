@@ -67,3 +67,9 @@ CU7 was a version of Xbox One Edition released on December 18, 2014.
 
 ### Blocks
 - Hardened clay, stained clay, block of coal, hay bale, activator rail, block of redstone, daylight sensor, dropper, hopper, minecart with hopper, minecart with TNT, redstone comparator, weighted pressure plate, beacon, trapped chest, multiple snow heights
+
+### Items
+- Firework rocket, firework star, nether star, lead, horse armor, name tag
+- Horse, donkey and mule spawn eggs
+
+    - Version exclusive: All use the horse spawn egg texture.
