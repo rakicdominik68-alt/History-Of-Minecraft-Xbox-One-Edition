@@ -15,3 +15,4 @@ CU1 was a version of Xbox One Edition released on September 5, 2014.[1] This was
 - Render distance is 18 chunks as opposed to 10 chunks on Xbox 360.
 
 # Xbox One Edition CU3
+CU3 was a version of Xbox One Edition released on October 2, 2014
